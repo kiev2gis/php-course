@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html>
 <head>
-    <title>Lecture 1. Syntax</title>
+    <title>Wellcome page</title>
     <meta charset="utf-8">
 </head>
 <body>
